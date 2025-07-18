@@ -1,6 +1,6 @@
 # Employee Management API
 
-A simple and efficient RESTful API built with **.NET 6** to manage employees.  
+A simple and efficient RESTful API built with **.NET 8** to manage employees.  
 Supports full CRUD operations, pagination, and search filtering.
 
 ---
