@@ -24,9 +24,9 @@ Supports full CRUD operations, pagination, and search filtering.
 ---
 | Method | Endpoint                                              | Description                     | Request Body                                  | Response                      |
 |--------|-------------------------------------------------------|---------------------------------|-----------------------------------------------|-------------------------------|
-| GET    | `http://employeetask.runasp.net/employees`            | Get paginated list of employees | Query params: `search` (optional), `page`, `pageSize` | Returns list of employees + total count |
-| GET    | `http://employeetask.runasp.net/employees/{id}`       | Get employee by ID              | N/A                                           | Employee object or 404         |
-| POST   | `http://employeetask.runasp.net/employees`            | Create new employee             | Employee DTO JSON                             | Created Employee object        |
-| PUT    | `http://employeetask.runasp.net/employees/{id}`       | Update existing employee        | Employee DTO JSON                             | `true` if updated, `false` if not found |
-| DELETE | `http://employeetask.runasp.net/employees/{id}`       | Delete employee                 | N/A                                           | `true` if deleted, `false` if not found |
+| GET    | `http://employeetask.runasp.net/api/employee`            | Get paginated list of employees | Query params: `search` (optional), `page`, `pageSize` | Returns list of employees + total count |
+| GET    | `http://employeetask.runasp.net/api/employee/{id}`       | Get employee by ID              | N/A                                           | Employee object or 404         |
+| POST   | `http://employeetask.runasp.net/api/employee`            | Create new employee             | Employee DTO JSON                             | Created Employee object        |
+| PUT    | `http://employeetask.runasp.net/api/employee/{id}`       | Update existing employee        | Employee DTO JSON                             | `true` if updated, `false` if not found |
+| DELETE | `http://employeetask.runasp.net/api/employee/{id}`       | Delete employee                 | N/A                                           | `true` if deleted, `false` if not found |
 
