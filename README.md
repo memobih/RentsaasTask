@@ -16,7 +16,7 @@ Supports full CRUD operations, pagination, and search filtering.
 
 ## 📦 Technologies Used
 
-- .NET 6 Web API  
+- .NET 8 Web API  
 - Entity Framework Core with SQLite  
 - Swagger for API documentation  
 - Angular (frontend) - [link to your Angular repo or instructions]  
