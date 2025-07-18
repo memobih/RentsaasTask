@@ -1,0 +1,6 @@
+@RentsaasTask_HostAddress = http://localhost:5157
+
+GET {{RentsaasTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
