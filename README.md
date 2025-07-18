@@ -19,7 +19,7 @@ Supports full CRUD operations, pagination, and search filtering.
 - .NET 8 Web API  
 - Entity Framework Core with SQLite  
 - Swagger for API documentation  
-- Angular (frontend) - [link to your Angular repo or instructions]  
+- Angular (frontend) - [[link to your Angular repo or instructions](https://github.com/memobih/EmployeeTaskFront)]  
 
 ---
 | Method | Endpoint                                              | Description                     | Request Body                                  | Response                      |
