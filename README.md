@@ -23,16 +23,3 @@ Supports full CRUD operations, pagination, and search filtering.
 
 ---
 
-## ⚙️ Getting Started
-
-### Prerequisites
-
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)  
-- SQLite (optional, if you want to inspect the DB)  
-
-### Setup
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/memobih/RentsaasTask.git
-   cd RentsaasTask
